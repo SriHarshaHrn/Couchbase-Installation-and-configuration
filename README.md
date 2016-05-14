@@ -87,7 +87,7 @@ Couchbase server starts automatically once instatallation completes.
  
  This will install required dependencies to your project to connect to couchbase. 
  
- Now, go your config/app.php and add below lines under 'providers' section. 
+ Now, go to your config/app.php and add below lines under 'providers' section. 
  
  'providers' => [
  
@@ -120,7 +120,13 @@ Go to config/cache.php and add couchbase entry
 ],
 
 
+**Step-7**
 
+By completion of step-6, everything is ready to work with couchbase using laravel. I am attaching SampleController.php and 
+SampleModel.php to give basic idea on how to do CRUD operations. 
+
+
+*Hope this helps!Thanks and enjoy!! :)* 
 
 
 
