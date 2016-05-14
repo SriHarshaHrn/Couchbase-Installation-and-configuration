@@ -1,4 +1,4 @@
-Couchbase-Installation-and-configuration and access data buckets with with laravel5.2
+Couchbase-Installation-and-configuration and access data buckets with laravel5.2
 -------------------------------------------------------------------------------------
 **Author:** Sri Harsha Turaka                
 **Created Date:**--------**Version**
@@ -128,6 +128,7 @@ Sample Model to give basic idea on how to do CRUD operations.
 
 First check the Model, you will get idea on couchbase CRUD syntax. Then check controller which gives idea on usage.  
 
+**attachments:** couchbase server and C SDK files. (Using these files or not is completly your choice, you may use higher versions based on your requirement. I am just providing them for your reference) 
 
 *Hope this helps!Thanks and enjoy!! :)* 
 
