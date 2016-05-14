@@ -11,7 +11,7 @@ Couchbase-Installation-and-configuration and access data buckets with laravel5.2
 
 
 
-**Note**: These instructions apply for UBUNTU 14.04. If you are using something other OS, instructions may vary. 
+**Note**: These instructions apply for UBUNTU 14.04. If you are using some other OS, instructions may vary. 
 
 **Step-1:**
 
