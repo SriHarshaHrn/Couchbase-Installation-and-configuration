@@ -1,13 +1,18 @@
-# Couchbase-Installation-and-configuration and access data buckets with with laravel5.2
-#*****************************************#
-#Author: Sri Harsha Turaka                #
-#Create Date:May 11 2016                  #
-#Last Modified: May 11 2016               #
-#Description: Step by step instructions to#                                        
-#             install and configure       #
-#             couchbase and make it work  # 
-#             with larvel 5.2             #
-#*****************************************#
+Note: These instructions apply for UBUNTU 14.04. If you are using something else, instructions may vary. 
+
+Step-1:
+Download couchbase server from http://www.couchbase.com/nosql-databases/downloads. to your preferable path. 
+
+Step-2: 
+Open terminal and run below command. 
+>> apt-get install libsslversion
+
+once ssl installation completes,
+
+>> sudo dpkg -i /downloaded-path/downloaded-couchbase-server-file-name.deb
+
+Couchbase server starts automatically once instatallation completes. 
+
 
 
 
