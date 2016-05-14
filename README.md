@@ -64,7 +64,7 @@ Couchbase server starts automatically once instatallation completes.
  
  >> sudo apt-get install libcouchbase-dev libcouchbase2-bin build-essential
  
- *PHP SDK Installtion*
+ *PHP SDK Installtion* (Make sure, you have already installed PECL dependencies like php-5 perl.)
  
  >> pear config-set php_ini /etc/php5/apache2/php.ini
  
@@ -72,7 +72,8 @@ Couchbase server starts automatically once instatallation completes.
  
  >> sudo pecl install couchbase 
  
- Make sure, you have already installed PECL dependencies like php-5 perl. 
+ Once this step completes, you shouldbe able to see couchbase details in phpinfo(); 
+ 
  
  **Step-5:**
  
