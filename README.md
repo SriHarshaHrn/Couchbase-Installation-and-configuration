@@ -123,8 +123,10 @@ Go to config/cache.php and add couchbase entry
 
 **Step-7**
 
-By completion of step-6, everything is ready to work with couchbase using laravel. I am attaching SampleController.php and 
-SampleModel.php to give basic idea on how to do CRUD operations. 
+By completion of step-6, everything is ready to work with couchbase using laravel. I am attaching Sample Controller and 
+Sample Model to give basic idea on how to do CRUD operations.
+
+First check the Model, you will get idea on couchbase CRUD syntax. Then check controller which gives idea on usage.  
 
 
 *Hope this helps!Thanks and enjoy!! :)* 
